@@ -8,8 +8,7 @@ export const HeaderContainer = styled.div`
 	background-color: #ffcb05;
 	justify-content: center;
 	align-items: center;
-	padding: 10px;
-`;
+	`;
 
 const logo = keyframes`
 from { transform: rotate(0deg); }
