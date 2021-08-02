@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pokemon-bay-tf/public/static/css/main.b2e45176.chunk.css",
-    "main.js": "/pokemon-bay-tf/public/static/js/main.bcdbfccb.chunk.js",
-    "main.js.map": "/pokemon-bay-tf/public/static/js/main.bcdbfccb.chunk.js.map",
-    "runtime-main.js": "/pokemon-bay-tf/public/static/js/runtime-main.ed1a06aa.js",
-    "runtime-main.js.map": "/pokemon-bay-tf/public/static/js/runtime-main.ed1a06aa.js.map",
-    "static/js/2.e8e79fdc.chunk.js": "/pokemon-bay-tf/public/static/js/2.e8e79fdc.chunk.js",
-    "static/js/2.e8e79fdc.chunk.js.map": "/pokemon-bay-tf/public/static/js/2.e8e79fdc.chunk.js.map",
-    "static/js/3.0fe6565e.chunk.js": "/pokemon-bay-tf/public/static/js/3.0fe6565e.chunk.js",
-    "static/js/3.0fe6565e.chunk.js.map": "/pokemon-bay-tf/public/static/js/3.0fe6565e.chunk.js.map",
-    "index.html": "/pokemon-bay-tf/public/index.html",
-    "static/css/main.b2e45176.chunk.css.map": "/pokemon-bay-tf/public/static/css/main.b2e45176.chunk.css.map",
-    "static/js/2.e8e79fdc.chunk.js.LICENSE.txt": "/pokemon-bay-tf/public/static/js/2.e8e79fdc.chunk.js.LICENSE.txt"
+    "main.css": "/pokemon-bay-tf/static/css/main.b2e45176.chunk.css",
+    "main.js": "/pokemon-bay-tf/static/js/main.bcdbfccb.chunk.js",
+    "main.js.map": "/pokemon-bay-tf/static/js/main.bcdbfccb.chunk.js.map",
+    "runtime-main.js": "/pokemon-bay-tf/static/js/runtime-main.0185b675.js",
+    "runtime-main.js.map": "/pokemon-bay-tf/static/js/runtime-main.0185b675.js.map",
+    "static/js/2.e8e79fdc.chunk.js": "/pokemon-bay-tf/static/js/2.e8e79fdc.chunk.js",
+    "static/js/2.e8e79fdc.chunk.js.map": "/pokemon-bay-tf/static/js/2.e8e79fdc.chunk.js.map",
+    "static/js/3.0fe6565e.chunk.js": "/pokemon-bay-tf/static/js/3.0fe6565e.chunk.js",
+    "static/js/3.0fe6565e.chunk.js.map": "/pokemon-bay-tf/static/js/3.0fe6565e.chunk.js.map",
+    "index.html": "/pokemon-bay-tf/index.html",
+    "static/css/main.b2e45176.chunk.css.map": "/pokemon-bay-tf/static/css/main.b2e45176.chunk.css.map",
+    "static/js/2.e8e79fdc.chunk.js.LICENSE.txt": "/pokemon-bay-tf/static/js/2.e8e79fdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ed1a06aa.js",
+    "static/js/runtime-main.0185b675.js",
     "static/js/2.e8e79fdc.chunk.js",
     "static/css/main.b2e45176.chunk.css",
     "static/js/main.bcdbfccb.chunk.js"
